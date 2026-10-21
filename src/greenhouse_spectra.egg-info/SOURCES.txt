@@ -1,7 +1,0 @@
-README.md
-pyproject.toml
-src/greenhouse_spectra/__init__.py
-src/greenhouse_spectra.egg-info/PKG-INFO
-src/greenhouse_spectra.egg-info/SOURCES.txt
-src/greenhouse_spectra.egg-info/dependency_links.txt
-src/greenhouse_spectra.egg-info/top_level.txt
