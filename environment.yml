@@ -1,0 +1,11 @@
+name: my-project
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - python=3.12
+  - ipykernel
+prefix: /opt/anaconda3/envs/my-project
